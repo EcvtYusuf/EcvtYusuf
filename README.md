@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Yusuf Ecevit
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning .Net Core technologies and android development with React Native
+- 🌱 I’m currently learning Java / .Net Core technologies and android development with React Native
 - 📫 How to reach me ysfecvtt@gmail.com
